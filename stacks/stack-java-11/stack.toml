@@ -1,5 +1,5 @@
 id = "io.buildpacks.stacks.ubi9"
-homepage = "https://github.com/paketo-buildpacks/ubi9-base-stack"
+homepage = "https://github.com/paketo-buildpacks/ubi-9-base-images"
 maintainer = "Paketo Buildpacks"
 
 platforms = ["linux/amd64", "linux/arm64", "linux/ppc64le", "linux/s390x"]
